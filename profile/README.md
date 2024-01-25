@@ -14,7 +14,7 @@ Get personalized menu suggestions in real-time.
 
 <br/>
 
-<video src="https://github.com/Menumizer/.github/assets/57204327/e1ea17c0-dbb3-473c-a18d-0681cb44d74b
+<video src="https://github.com/Menumizer/.github/assets/57204327/02aa131a-af1b-4346-9031-25f6d19a73f6
 " width="300" />
   
 # About
