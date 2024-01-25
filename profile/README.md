@@ -14,11 +14,9 @@ Get personalized menu suggestions in real-time.
 
 <br/>
 
-<div align="center">
-  <video src="https://github.com/Menumizer/.github/blob/main/profile/assets/menumizer_demo.mp4" width="400" />
-</div>
-
-
+<video src="https://github.com/Menumizer/.github/assets/57204327/e1ea17c0-dbb3-473c-a18d-0681cb44d74b
+" width="300" />
+  
 # About
 <h6>-By My Phung</h6>
 Menumizer is an app for you if you feel like you spend way too much time and effort figuring out what you want to eat when you go out. The idea for Menumizer happened naturally; I thought of it when I was at a restaurant!<br/><br/> 
