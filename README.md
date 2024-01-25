@@ -1,5 +1,5 @@
 <div align="left" style="margin: 50px">
-  <img align="left" height="175" src="https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png" alt="menumizer logi" style="float: left;"/>
+  <img align="left" height="175" src="https://github.com/Menumizer/.github/blob/main/assets/menumizer_logo.png" alt="menumizer logi" style="float: left;"/>
 </div>
 
 
