@@ -1,5 +1,5 @@
 <div align="left" style="margin: 50px">
-  <img align="left" height="175" src="assets/menumizer_logo.png" alt="hubsky" style="float: left;"/>
+  <img align="left" height="175" src="assets/menumizer_logo.png" alt="menumizer logi" style="float: left;"/>
 </div>
 
 # Menumizer
