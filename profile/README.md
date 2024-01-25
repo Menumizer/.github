@@ -1,5 +1,5 @@
 <div align="left" style="margin: 50px height: 300px">
-  <img align="left" height="175" src="assets/menumizer_logo.png" alt="menumizer logo" style="float: left;"/>
+  <img align="left" height="175" src="https://github.com/Menumizer/.github/blob/main/profile/assets/menumizer_logo.png" alt="menumizer logo" style="float: left;"/>
 </div>
 
 # Menumizer
@@ -15,7 +15,7 @@ Get personalized menu suggestions in real-time.
 <br/>
 
 <div align="center">
-  <video src="menumizer_demo.mp4" width="400" />
+  <video src="https://github.com/Menumizer/.github/blob/main/profile/assets/menumizer_demo.mp4" width="400" />
 </div>
 
 
@@ -27,7 +27,7 @@ Last Christmas I celebrated my family renunion at a restaurant, and the menu we 
 For 5-10 minutes I was searching the food's picture up on Google, and asking my cousins what they were going to eat so that I could get a better idea of what's good. At this point I recognized that I have this mild inconvenience every time I go to a restaurant<br/>
 So... what if there was an app that would allow me to take a picture of my menu and show me what I should pick and why?<br/><br/>
 
-I don't have much of an impressive background from a developer's standpoint. I don't know much about AI besides being a serial ChatGPT user, and I have never touched mobile development. However, no one's made a solution for this and I know many people who experience this inconvenience. So let's go for it 😁
+I don't have much of an impressive background from a developer's standpoint. I don't know much about AI besides being a serial ChatGPT user, and I have never touched mobile development. However, no one's made a solution for this, and I know many people who experience this inconvenience. So... let's do it!  😁
 #
 <div>
   <a target="_blank" href="https://www.menumizer.com/"><img alt="Static Badge" src="https://img.shields.io/badge/FEB.-white?style=for-the-badge&logo=appstore&logoColor=white&label=iOS&labelColor=blue&color=white"></a>
