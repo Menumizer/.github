@@ -1,32 +1,37 @@
-<div align="left" style="margin: 50px">
-  <img align="left" height="175" src="assets/menumizer_logo.png" alt="hubsky" style="float: left;"/>
+<div align="left" style="margin: 50px height: 300px">
+  <img align="left" height="175" src="assets/menumizer_logo.png" alt="menumizer logo" style="float: left;"/>
 </div>
 
 # Menumizer
-Personalized menu suggestions in real-time.
+Get personalized menu suggestions in real-time.
+
+<h6>Scan an image  -  Answer 5 yes/no questions - Get results!</h6>
 
 <div>
-  <a href="https://chat.openai.com/g/g-4plZL8QES-menumizer"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
-  <a href='https://www.menumizer.com/'><img alt="Static Badge" src="https://img.shields.io/badge/.com-white?style=for-the-badge&label=MENUMIZER&labelColor=orange&color=white"></a>
+  <a target="_blank" href="https://chat.openai.com/g/g-4plZL8QES-menumizer"><img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /></a>
+  <a target="_blank" href='https://www.menumizer.com/'><img alt="Static Badge" src="https://img.shields.io/badge/.com-white?style=for-the-badge&label=MENUMIZER&labelColor=orange&color=white"></a>
 </div>
+
+<br/>
+
+<div align="center">
+  <video src="menumizer_demo.mp4" width="400" />
+</div>
+
 
 # About
 <h6>-By My Phung</h6>
 Menumizer is an app for you if you feel like you spend way too much time and effort figuring out what you want to eat when you go out. The idea for Menumizer happened naturally; I thought of it when I was at a restaurant!<br/><br/> 
 
-Last Christmas I celebrated my family renunion at a restaurant. The menu we were each given was ONLY two pages, but there must have been at least 20 amazing options!<br/>
-I spent 5-10 minutes searching the options up on Google and asking my cousins what they were going to eat, so that I could be assured I wouldn't regret not choosing something else. At this point I recognized that I continue to have this mild inconvenience every time I go to a restaurant, and I decided I ought to do something about it.<br/>
+Last Christmas I celebrated my family renunion at a restaurant, and the menu we were each given was ONLY two pages, but there must have been at least 20 amazing options.<br/>
+For 5-10 minutes I was searching the food's picture up on Google, and asking my cousins what they were going to eat so that I could get a better idea of what's good. At this point I recognized that I have this mild inconvenience every time I go to a restaurant<br/>
 So... what if there was an app that would allow me to take a picture of my menu and show me what I should pick and why?<br/><br/>
 
-I knew nothing about AI. I knew nothing about mobile development. No one's made a solution, but I know many people experience this inconvenience. Now here we are!
+I don't have much of an impressive background from a developer's standpoint. I don't know much about AI besides being a serial ChatGPT user, and I have never touched mobile development. However, no one's made a solution for this and I know many people who experience this inconvenience. So let's go for it 😁
 #
 <div>
-  <a href="https://www.menumizer.com/"><img alt="Static Badge" src="https://img.shields.io/badge/FEB.-white?style=for-the-badge&logo=appstore&logoColor=white&label=iOS&labelColor=blue&color=white"></a>
-  <a href="https://www.menumizer.com/"><img alt="Static Badge" src="https://img.shields.io/badge/FEB.-white?style=for-the-badge&logo=googleplay&logoColor=white&label=Google%20Play&labelColor=green&color=white"></a>
+  <a target="_blank" href="https://www.menumizer.com/"><img alt="Static Badge" src="https://img.shields.io/badge/FEB.-white?style=for-the-badge&logo=appstore&logoColor=white&label=iOS&labelColor=blue&color=white"></a>
+  <a target="_blank" href="https://www.menumizer.com/"><img alt="Static Badge" src="https://img.shields.io/badge/FEB.-white?style=for-the-badge&logo=googleplay&logoColor=white&label=Google%20Play&labelColor=green&color=white"></a>
 </div>
 
 <div class="clear"></div>
-
-#
-Built with <a href="https://reactnative.dev/" target="_blank">React Native</a> (managed by <a href="https://expo.dev/" target="_blank">Expo</a>), and <a href="https://www.nativewind.dev/" target="_blank">NativeWind</a>. Using <a href="https://onesignal.com/" target="_blank">OneSignal</a> for notifications and <a href="https://vexo.co/" target="_blank">Vexo Analytics</a> for analytics and usage data.
-#
