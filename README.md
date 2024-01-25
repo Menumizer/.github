@@ -2,6 +2,7 @@
   <img align="left" height="175" src="assets/menumizer_logo.png" alt="menumizer logi" style="float: left;"/>
     ![menumizer logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
 </div>
+    ![menumizer logo](https://raw.githubusercontent.com/Descent098/ezcv/master/.github/logo.png)
 
 # Menumizer
 Personalized menu suggestions using interactive AI in real-time.
